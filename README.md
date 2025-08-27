@@ -13,3 +13,7 @@ Please note that the LED brightness should not be set too high, it will cause a 
 
 <img width="1033" height="335" alt="image" src="https://github.com/user-attachments/assets/3bf797f9-15bb-445b-9959-541b34b5483a" />
 
+
+<img width="750" height="548" alt="image" src="https://github.com/user-attachments/assets/5e85bf83-fd09-48da-a39d-0048bb7f4415" />
+
+
