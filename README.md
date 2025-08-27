@@ -10,3 +10,6 @@ USB Type-C connector, easier to use.
 Adapting multiple peripheral interfaces, onboard 8*8 beads matrix of 64 RGB beads, for displaying cool RGB LED effects or simple images.
 Support multiple low-power working effects, balancing the communication distance, data rate, and power consumption, meeting various application requirements.
 Please note that the LED brightness should not be set too high, it will cause a rapid temperature increase, which can result in damage to the board.
+
+<img width="1033" height="335" alt="image" src="https://github.com/user-attachments/assets/3bf797f9-15bb-445b-9959-541b34b5483a" />
+
